@@ -15,10 +15,9 @@ keywords: Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,生活故事,架构
 encoding: "utf-8"
 favicon: favicon.ico 
 
-repository: github_preCheng/github_preCheng.github.io
-github_url: https://github.com/github_preCheng
+repository: github_precheng/github_precheng.github.io
+github_url: https://github.com/github_precheng
 url: http://www.chenghaosir.com
-enforce_ssl: preCheng.com
 
 ## Gem
 plugins:
@@ -239,17 +238,17 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: preCheng
+    username: precheng
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: preCheng
+    owner: precheng
     repo: blog-comments
     oauth:
         client_id: 61bfc53d957e74e78f8f
         client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: preCheng
+    owner: precheng
     repo: blog-comments
     clientID: 61bfc53d957e74e78f8f
     clientSecret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
